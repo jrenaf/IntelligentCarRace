@@ -1,6 +1,7 @@
 # IntelligentCarRace
 This is a repository for 2018 NXP Cup National Intelligent Car Racing Contest (Wireless Group) HKUST Robotis Team
-This repository has been revised after the competition as a reflect on the car structure and algorithm designs.
+
+*This repository has been revised after the competition as a reflect on the car structure and algorithm designs.*
 
 **Teammates**: Jiming REN, Zeon Turing
 <p align="center">
